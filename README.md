@@ -40,6 +40,10 @@ Feel free to check the design before diving into the code!
 
 2. Open index.html in your browser to view the menu.
 
+## Credits
+
+This project was inspired by the "Learn Basic CSS by Building a Cafe Menu" course by <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-basic-css-by-building-a-cafe-menu">freeCodeCamp</a>. Special thanks to the community for their learning resources and support.
+
 ------------------------------------------------------------------------------
 [PT-BR]
 
@@ -79,3 +83,10 @@ Confira o design antes de explorar o código!
 1. Clone este repositório:
    ```bash
    git clone https://github.com/yourusername/learn-basic-css-cafe-menu.git
+
+2. Abra o arquivo index.html no navegador para visualizar o menu.
+
+
+## Créditos
+
+Este projeto foi inspirado pelo curso "Learn Basic CSS by Building a Cafe Menu" da <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-basic-css-by-building-a-cafe-menu">freeCodeCamp</a>. Agradecimentos especiais à comunidade pelos recursos de aprendizado e suporte.
