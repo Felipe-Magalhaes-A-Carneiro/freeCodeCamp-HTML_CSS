@@ -12,6 +12,7 @@ h1 {
 
 .established {
     font-style: italic;
+    text-align: center;
 }
 
 hr {
@@ -26,6 +27,11 @@ h2 {
 
 h1, h2 {
     text-align: center;
+    font-family: Impact, serif;
+}
+
+.bottom-line {
+    margin-top: 25px;
 }
 
 .menu {
@@ -46,14 +52,39 @@ img {
 
 .item p {
     display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
 }
 
-.flavor {
+.flavor, .dessert {
     text-align: left;
-    width: 75%;
+    width: 50%;
 }
 
 .price {
     text-align: right;
-    width: 75%;
+    width: 50%;
+}
+
+/* FOOTER */
+
+footer {
+    font-size: 14px;
+}
+
+.address {
+    margin-bottom: 5px;
+}
+
+a {
+    color: black;
+}
+
+a:houver {
+    color: brown;
+}
+
+a:active {
+    color: brown;
 }
