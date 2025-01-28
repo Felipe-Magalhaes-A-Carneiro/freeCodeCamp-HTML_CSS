@@ -4,7 +4,27 @@ body {
     padding: 20px;
 }
 
-h1, h2, p {
+h1 {
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+.established {
+    font-style: italic;
+}
+
+hr {
+    height: 2px;
+    background-color:  brown;
+    border-color: brown;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h1, h2 {
     text-align: center;
 }
 
